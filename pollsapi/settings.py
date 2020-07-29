@@ -53,7 +53,6 @@ SHARED_APPS = (
     'django.contrib.staticfiles',
     'rest_framework',
     'rest_framework.authtoken',
-    'rest_framework_swagger',
 
 )
 INSTALLED_APPS = [
@@ -68,7 +67,6 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'pollsapi.polls',
     'pollsapi.tenant',
-    'rest_framework_swagger',
 ]
 
 MIDDLEWARE = [
